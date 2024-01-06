@@ -1,4 +1,3 @@
----
 ### Super Linter
 name: Linting Code Base using Super Linter
 on:
